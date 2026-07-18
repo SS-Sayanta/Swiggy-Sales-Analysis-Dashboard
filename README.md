@@ -69,6 +69,6 @@ Sayanta Ghosh
 
 Aspiring Data Analyst | Power BI | Excel | SQL | Python
 
-LinkedIn:(https://www.linkedin.com/Sayanta Ghosh)
+LinkedIn:(https://www.linkedin.com/SayantaGhosh)
 
 GitHub: (https://github.com/SS-Sayanta)
